@@ -29,7 +29,10 @@ Components
 - 5v to 3v converter
 - [Micro switch with LED](https://www.aliexpress.com/item/Free-shipping-50pcs-lot-size-12X12X7-3-push-button-Led-Tact-Switch-illuminated-switch/1428645429.html?spm=a2g0s.9042311.0.0.366c4c4dAUs27O)
 - Resistors: 1kΩ, 3MΩ
-- [PCB Schematics and full component list](https://easyeda.com/4stamz/Motorized-Fader)
+
+Build
+-----
+- [PCB Schematics and design](https://easyeda.com/4stamz/Motorized-Fader)
 - [3D models of the enclosure, PCBs and other components](https://cad.onshape.com/documents/8fca3ece89a1a691dc7b2f03/w/1110b660203dcd02d4d1f164/e/c94212ecd41983e09bee9d12)
 
 Software
@@ -45,7 +48,7 @@ The first working prototype:
 The same prototype with a custom made PCB:
 ![wip02](img/wip02.png)
 
-Partial assembly:
+Partial assembly + 3D printed enclusure:
 ![wip03](img/wip03.png)
 
 ![wip04](img/wip04.png)
