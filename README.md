@@ -19,8 +19,13 @@ Clicking an already selected red button will disable/enable all of the contoller
 
 ![controller animation](img/ctl02.gif)
 
-Components
-----------
+Software
+--------
+- Developed in C++ with PlatformIO and the Arduino framework.
+- In addition, there is a (JavaScript) plugin for Bitwig Studio.
+
+Hardware
+--------
 - Fader: [ALPS RSA0N11M9A0J](https://www.alps.com/prod/info/E/HTML/Potentiometer/SlidePotentiometers/RSN1M/RSA0N11M9A0J.html)
 - Development board: [Teensy 2.0](https://www.pjrc.com/store/teensy.html)
 - TB6612FNG Motor driver
@@ -37,20 +42,18 @@ Build
 
 ![schemnatics](img/schem.png)
 
-Software
---------
-- Developed in C++ with PlatformIO and the Arduino framework.
-- In addition, there is a (JavaScript) plugin for Bitwig Studio.
-
 Work in progress
 ----------------
-The first working prototype:
+A prototype:
+
 ![wip01](img/wip01.png)
 
 The same prototype with a custom made PCB:
+
 ![wip02](img/wip02.png)
 
 Partial assembly + 3D printed enclusure:
+
 ![wip03](img/wip03.png)
 
 ![wip04](img/wip04.png)
