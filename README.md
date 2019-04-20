@@ -35,6 +35,8 @@ Build
 - [PCB Schematics and design](https://easyeda.com/4stamz/Motorized-Fader)
 - [3D models of the enclosure, PCBs and other components](https://cad.onshape.com/documents/8fca3ece89a1a691dc7b2f03/w/1110b660203dcd02d4d1f164/e/c94212ecd41983e09bee9d12)
 
+![schemnatics](img/schem.png)
+
 Software
 --------
 - Developed in C++ with PlatformIO and the Arduino framework.
